@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<math.h>
 
 size_t my_strlen(char *s)
 {
